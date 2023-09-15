@@ -34,9 +34,9 @@
 
 <h3> Requisitos Não Funcionais: </h3> 
 
- <p> • Bom tempo de resposta e execução nas transações; </p>
- <p> • Boa usabilidade e amigável; </p>
- <p> • O sistema deve conter métricas que ajudem a observar o seu comportamento. </p>
+ <p> ● Bom tempo de resposta e execução nas transações; </p>
+ <p> ● Boa usabilidade e amigável; </p>
+ <p> ● O sistema deve conter métricas que ajudem a observar o seu comportamento. </p>
 
  <br>
  <br>
@@ -47,7 +47,7 @@
 <img align="center" src=""/>
 
 
-<h3> • Sprint 1 - 04/09 a 24/09 </h3>
+<h3> ● Sprint 1 - 04/09 a 24/09 </h3>
 
 ✔️ Wireframe; <br>
 ✔️ Modelagem e Criação do Banco de Dados; <br>
@@ -55,19 +55,19 @@
 ✔️ Autenticação, Autorização e Sistema de Rotas; <br>
 ✔️ Ínicio dos Painéis de Usuários. <br>
 
-<h3> • Sprint 2 - 25/09 a 15/10 </h3>
+<h3> ● Sprint 2 - 25/09 a 15/10 </h3>
 
 ✔️ Desenvolvimento do Painel Administrativo; <br> 
 ✔️ Desenvolvimento do Painel do Parceiro Greenneat; <br>
 ✔️ Desenvolvimento do Painel do Estabelecimento; <br>
 ✔️ Desenvolvimento do Sistema de Créditos Greenneat e Transações. <br>
 
-<h3> • Sprint 3 - 16/10 a 05/11 </h3>
+<h3> ● Sprint 3 - 16/10 a 05/11 </h3>
 
 ✔️ Telas e Funcionalidades do Dashboard de Rankings; <br>
 ✔️ Telas e Funcionalidades do Comparador de Preços. <br>
 
-<h3> • Sprint 4 - 06/11 a 26/11 </h3>
+<h3> ● Sprint 4 - 06/11 a 26/11 </h3>
 ✔️ Otimizações e Correções de Bugs; <br>
 ✔️ Melhorias na Usabilidade do Sistema; <br>
 ✔️ Deploy e Release. <br>
@@ -81,11 +81,11 @@
 
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
-• Front-end: React;<br>
-• Back-end: Node.js;<br>
-• Linguagem de Programação: TypeScript;<br>
-• Banco de Dados: PostgreSQL;<br>
-• Ferramentas: Git, GitHub, Visual Studio Code, Figma, Canva.<br>
+● Front-end: React;<br>
+● Back-end: Node.js;<br>
+● Linguagem de Programação: TypeScript;<br>
+● Banco de Dados: PostgreSQL;<br>
+● Ferramentas: Git, GitHub, Visual Studio Code, Figma, Canva.<br>
 <div style="display: inline_blocks"><br>              
 <img align="center"src="Imagens/react.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/nodejs.png" height= "80" width= "80"/>
