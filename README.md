@@ -132,7 +132,7 @@
 -----|------|------|---------
 Rafaela Cabral      |Scrum Master |[@Github](https://github.com/RafaelaCabral)|[@Linkedin](https://www.linkedin.com/in/rafaela-vieira-cabral-733b5922a)
 Eliézer Lopes       |Product Owner|[@Github](https://github.com/EliezerLopes1)|[@Linkedin](https://www.linkedin.com/in/eli%C3%A9zer-lopes-b89a4124a)
-Nicolas Pereira     |Desenvolvedor|[@Github](https://github.com/NicolasPereira06)|[@Linkedin](https://www.linkedin.com/in/nicolas-bonif%C3%A1cio-426804237/)
+Nicolas Pereira     |Desenvolvedor|[@Github](https://github.com/NicolasPereira06)|[@Linkedin](https://www.linkedin.com/in/nicolaspereira06/)
 Thalles Torres      |Desenvolvedor|[@Github](https://github.com/thallestorres)|[@Linkedin](www.linkedin.com/in/thalles-torres-83449a285)
 Nicholas Teodoro    |Desenvolvedor|[@Github](https://github.com/nicholasgui29)|[@Linkedin](https://www.linkedin.com/in/nicholas-guilherme-bb926a248/)
 Roberto Barros      |Desenvolvedor|[@Github](https://github.com/robertobarros5)|[@Linkedin](https://www.linkedin.com/in/robertodebarros)
