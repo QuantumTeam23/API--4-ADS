@@ -130,12 +130,14 @@
  
  Nome|Função|Github|Linkedin 
 -----|------|------|---------
-Roberto Barros      |Scrum Master |[@Github](https://github.com/RafaelaCabral)|[@Linkedin](https://www.linkedin.com/in/rafaela-vieira-cabral-733b5922a)
+Rafaela Cabral      |Scrum Master |[@Github](https://github.com/RafaelaCabral)|[@Linkedin](https://www.linkedin.com/in/rafaela-vieira-cabral-733b5922a)
 Eliézer Lopes       |Product Owner|[@Github](https://github.com/EliezerLopes1)|[@Linkedin](https://www.linkedin.com/in/eli%C3%A9zer-lopes-b89a4124a)
 Nicolas Pereira     |Desenvolvedor|[@Github](https://github.com/NicolasPereira06)|[@Linkedin](https://www.linkedin.com/in/nicolas-bonif%C3%A1cio-426804237/)
 Thalles Torres      |Desenvolvedor|[@Github](https://github.com/thallestorres)|[@Linkedin](www.linkedin.com/in/thalles-torres-83449a285)
 Nicholas Teodoro    |Desenvolvedor|[@Github](https://github.com/nicholasgui29)|[@Linkedin](https://www.linkedin.com/in/nicholas-guilherme-bb926a248/)
-Rafaela Cabral      |Desenvolvedor|[@Github](https://github.com/RafaelaCabral)|[@Linkedin](https://www.linkedin.com/in/rafaela-vieira-cabral-733b5922a)
+Roberto Barros      |Desenvolvedor|[@Github](https://github.com/robertobarros5)|[@Linkedin](https://www.linkedin.com/in/robertodebarros)
+Francisco Quirino   |Desenvolvedor|[@Github](https://www.github.com/ciscoquirino)|[@Linkedin](https://www.linkedin.com/in/francisco-quirino )
+
 
 <br>
 <br>
