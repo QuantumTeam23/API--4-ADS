@@ -44,28 +44,30 @@
 <h2>Cronograma das Sprints 📆</h2>
 <br>
 <br>
-<img align="center" src=""/>
+<img align="center" src="Imagens/CronogramaGeral.png"/>
 
 
 <h3> ● Sprint 1 - 04/09 a 24/09 </h3>
 
 ✔️ Wireframe; <br>
 ✔️ Modelagem e Criação do Banco de Dados; <br>
-✔️ Telas de Formulários de Cadastro; <br>
-✔️ Autenticação, Autorização e Sistema de Rotas; <br>
-✔️ Ínicio dos Painéis de Usuários. <br>
+✔️ Formulários de Cadastro; <br>
+✔️ Autenticação e Autorização; <br>
+✔️ Sistema de Rotas; <br>
+✔️ Ínicio dos Painéis. <br>
 
 <h3> ● Sprint 2 - 25/09 a 15/10 </h3>
 
-✔️ Desenvolvimento do Painel Administrativo; <br> 
-✔️ Desenvolvimento do Painel do Parceiro Greenneat; <br>
-✔️ Desenvolvimento do Painel do Estabelecimento; <br>
-✔️ Desenvolvimento do Sistema de Créditos Greenneat e Transações. <br>
+✔️ Painel Administrativo; <br> 
+✔️ Painel do Parceiro Greenneat; <br>
+✔️ Painel do Estabelecimento; <br>
+✔️ Sistema de Créditos Greenneat; <br>
+✔️ Transações. <br>
 
 <h3> ● Sprint 3 - 16/10 a 05/11 </h3>
 
-✔️ Telas e Funcionalidades do Dashboard de Rankings; <br>
-✔️ Telas e Funcionalidades do Comparador de Preços. <br>
+✔️ Dashboard de Rankings; <br>
+✔️ Comparador de Preços. <br>
 
 <h3> ● Sprint 4 - 06/11 a 26/11 </h3>
 ✔️ Otimizações e Correções de Bugs; <br>
@@ -104,7 +106,7 @@
 <br>
 <br>
 
-<img align="center" src="Imagens/ProductBacklog.png"/>
+<img align="center" src=""/>
 <br>
 <br>
 <h2>Modelo de dados📑</h2><br>
@@ -137,7 +139,5 @@ Thalles Torres      |Desenvolvedor|[@Github](https://github.com/thallestorres)|[
 Nicholas Teodoro    |Desenvolvedor|[@Github](https://github.com/nicholasgui29)|[@Linkedin](https://www.linkedin.com/in/nicholas-guilherme-bb926a248/)
 Roberto Barros      |Desenvolvedor|[@Github](https://github.com/robertobarros5)|[@Linkedin](https://www.linkedin.com/in/robertodebarros)
 Francisco Quirino   |Desenvolvedor|[@Github](https://www.github.com/ciscoquirino)|[@Linkedin](https://www.linkedin.com/in/francisco-quirino )
-
-
 <br>
 <br>
