@@ -94,7 +94,7 @@
 <img align="center"src="Imagens/typescript.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/postgre.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/git.png" height= "80" width= "80"/>
-<img align="center"src="Imagens/github.png" height= "80" width= "80"/>
+<img align="center"src="Imagens/github2.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/vs.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/figma.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/canva.png" height= "80" width= "80"/>
