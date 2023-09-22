@@ -1,0 +1,42 @@
+/* CSS do Tabelas.tsx */
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  thead th {
+    background: darkgreen;
+    border: 1px solid darkgreen;
+    color: white;
+    padding: 1vh 1vw;
+  }
+  
+  tbody tr:nth-child(odd) {
+    background: #f2f2f2;
+  }
+  
+  tbody td {
+    border: 1px solid darkgreen;
+    padding: 1vh 0.5vw;
+  }
+  
+  tfoot td {
+    background: darkgreen;
+    border: 1px solid darkgreen;
+    color: white;
+    padding: 1vh 0.5vw;
+    min-height: 2.2vh; 
+  }
+  
+  th:nth-child(1), td:nth-child(1) {
+    width: 60%;
+  }
+  
+  th:nth-child(2), td:nth-child(2) {
+    width: 20%;
+  }
+  
+  th:nth-child(3), td:nth-child(3), th:nth-child(4), td:nth-child(4) {
+    width: 10%;
+  }
+  

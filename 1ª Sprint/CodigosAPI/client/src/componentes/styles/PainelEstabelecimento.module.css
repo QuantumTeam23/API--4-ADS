@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', Arial, Helvetica;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2{
+  font-weight:800;
+  color: rgb(14, 56, 14);
+  text-align: left;
+  margin-right: auto;
+}
+
+.containerConteudo {
+  width: 90%;
+  max-width: 1700px;
+  height: 80vh;
+  margin: 0 auto;
+  padding: 0;
+  background-color: #ffffff;
+  font-family: 'Montserrat', Arial, Helvetica;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.barraPesquisa {
+  width: 100%;
+  height: 6px;
+  margin-left: 6px;
+  display: flex;
+  align-items: center;
+}
+
+.barraPesquisa input[type="text"] {
+  width: auto;
+  padding: 8px;
+  margin: 0;
+  border: none;
+  font-size: 16px;
+  font-weight: normal;
+  background: none;
+  color: #000;
+}
+
+input[type="text"],
+select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+label {
+  font-weight: bold;
+}
+
+select + label {
+  margin-top: 10px;
+  display: block;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.topContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.headerActions {
+  display: flex;
+  align-items: center;
+}
+
+form {
+  margin-top: 20px;
+}
+
+.emailInput {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.passwordInput {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+select + label {
+  margin-top: 10px;
+  display: block;
+}
+
+.tabelasContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tabelaContainer {
+  flex-basis: calc(50% - 10px);
+  margin-right: 10px;
+}
