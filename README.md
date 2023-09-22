@@ -77,7 +77,7 @@
 <br>
 <br>
 <h2>Demonstração completa de nosso sistema 💻</h2><br>
-<h3 align="center"> Link da aplicação:</h3>
+<h3 align="center"> Vídeo da aplicação:</h3>
 <br>
 <br>
 
@@ -128,7 +128,7 @@
 <img align="center" src="Imagens/burndown1.jpeg" height= "400" width= "700"/>
 <br>
 
- <h2>Equipe 👾</h2>
+<h2>Equipe 👾</h2>
  
  Nome|Função|Github|Linkedin 
 -----|------|------|---------
