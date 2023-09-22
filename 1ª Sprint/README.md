@@ -60,25 +60,7 @@
 <br>
 
 <h2>Demonstração de nossa aplicação 💻</h2><br>
-<h3 align="center">Tela de login</h3>
-<p><strong>Tela de login para o usuário (administrador ou comum) entrar no sistema:</strong></p>
-<img align="center" src="Imagens/login.png"/>
-<br>
-<br>
-<h3 align="center">Tela de cadastro</h3>
-<p><strong>Tela de cadastro para o usuário não cadastrado, realizar um.</strong></p>
-<img align="center" src="Imagens/cadastro.png"/>
-<br>
-<br>
-<h3 align="center">Tela do usuário comum</h3>
-<p><strong>Tela do usuário comum, informando seus dados recuperados do banco de dados e simbolizando algumas alterações já registradas no banco de dados.</strong></p>
-<img align="center" src="Imagens/user.png"/>
-<br>
-<br>
-<h3 align="center">Tela do usuário administrador</h3>
-<p><strong>Tela do usuário administrador, informando todo o sistema, desde usuários cadastrados, ações e usuários ativos. Todas informações já estão registradas e sendo recuperadas do banco de dados.</strong></p>
-<img align="center" src="Imagens/adm.png"/>
-<br>
+<h3 align="center"> Vídeo da aplicação:</h3>
 <br>
 
 <h2>Tecnologias Utilizadas 🔧</h2>
