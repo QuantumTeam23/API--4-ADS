@@ -105,7 +105,7 @@
  O product backlog é uma lista ordenada que tem como função documentar de forma clara todos os requisitos do desenvolvimento de um projeto. Itens que precisem de maior refinamento geralmente têm uma importância menor e ficam mais abaixo no Product Backlog.  
 <br>
 <br>
-<img align="center" src=""/>
+<img align="center" src="Imagens/Backlog"/>
 <br>
 <br>
 <h2>Modelo de dados📑</h2><br>
