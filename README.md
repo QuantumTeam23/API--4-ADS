@@ -106,7 +106,6 @@
 <br>
 <img align="center" src="Imagens/Backlog.png"/>
 <br>
-<img align="center" src=""/>
 <br>
 <br>
 <h2>Modelo de dados📑</h2><br>
