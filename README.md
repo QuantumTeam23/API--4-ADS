@@ -77,7 +77,8 @@
 <br>
 <br>
 <h2>Demonstração completa de nosso sistema 💻</h2><br>
-<h3 align="center"> Vídeo da aplicação:</h3>
+<h3> Vídeo da aplicação:</h3>
+<img align="center" src="Imagens/apresentacao1Sprint.gif"/>
 <br>
 <br>
 
