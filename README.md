@@ -78,7 +78,7 @@
 <br>
 <h2>Demonstração completa de nosso sistema 💻</h2><br>
 <h3> Vídeo da aplicação:</h3>
-<img align="center" src="/1ª%20Sprint/Imagens/apresentacao1Sprint.gif"/>
+<img align="center" src="Imagens/apresentacao1Sprint.gif"/>
 <br>
 <br>
 
@@ -105,7 +105,7 @@
 <h2>Backlog 📊</h2><br>
  O product backlog é uma lista ordenada que tem como função documentar de forma clara todos os requisitos do desenvolvimento de um projeto. Itens que precisem de maior refinamento geralmente têm uma importância menor e ficam mais abaixo no Product Backlog.  
 <br>
-<img align="center" src="/1ª%20Sprint/Imagens/Backlog.png"/>
+<img align="center" src="Imagens/Backlog.png"/>
 <br>
 <br>
 <br>
