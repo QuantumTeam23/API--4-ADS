@@ -59,9 +59,12 @@
 <br>
 <br>
 
-<h2>Demonstração de nossa aplicação 💻</h2><br>
+<h2>Demonstração completa de nosso sistema 💻</h2><br>
 <h3> Vídeo da aplicação:</h3>
 <img align="center" src="Imagens/apresentacao1Sprint.gif"/>
+<br>
+<h2>Link do nosso sistema no Youtube: ▶</h2><br>
+<h3> Link da aplicação: https://youtu.be/rwHQRRK0gV4</h3>
 <br>
 <br>
 
