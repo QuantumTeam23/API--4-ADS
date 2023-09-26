@@ -60,7 +60,7 @@
 <br>
 
 <h2>Demonstração completa de nosso sistema 💻</h2><br>
-<h3> Vídeo da aplicação:</h3>
+<h3> Video Sprint Review 1:</h3>
 <img align="center" src="Imagens/apresentacao1Sprint.gif"/>
 <h3> Link no YouTube da aplicação: https://youtu.be/rwHQRRK0gV4</h3>
 <br>
