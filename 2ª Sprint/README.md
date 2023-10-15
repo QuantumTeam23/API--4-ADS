@@ -102,7 +102,7 @@
 <br>
 
 <h5>Modelo Lógico<h5>
-<img align="center"src="Imagens/ModeloLogico.png" height= "600" width= "1100"/>
+<img align="center"src="Imagens/ModeloLogico_att.png" height= "600" width= "1100"/>
 <br>
 
 <h2>Burndown 📈📉 </h2> <br>
