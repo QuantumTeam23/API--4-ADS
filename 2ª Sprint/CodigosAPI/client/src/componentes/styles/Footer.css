@@ -1,0 +1,25 @@
+.footer {
+  background-color: #136935;
+  color: #fff;
+  height: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.3s ease;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: #fff;
+  margin-left: 0.5vw;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
+
+@media (max-height: 720px) {
+  .footer {
+    transform: translateY(100%);
+  }
+}

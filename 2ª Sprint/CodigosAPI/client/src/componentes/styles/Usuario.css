@@ -1,0 +1,92 @@
+* {
+    font-family: Montserrat, sans-serif, Arial;
+}
+
+.container-geral-user {
+    background-color: #ebebeb;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-janela-user {
+    width: 100vw;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-esquerda-user {
+    background: #136935;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-direita-user {
+    background: white;
+    flex: 1;
+    padding: 20px;
+}
+
+.logo-user img {
+    max-width: 100%;
+    height: auto;
+}
+
+.botao-usuario-user-1, .botao-usuario-user-2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.botao-usuario-user-1 button, .botao-usuario-user-2 button {
+    background-color: #136935;
+    height: 55px;
+    width: 300px;
+    font-size: 22px;
+}
+
+.titulo-user {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.titulo-user h1 {
+    color: #136935;
+    font-size: 2.8em;
+    font-weight: 555;
+    text-align: center;
+}
+
+.subtitulo-user h3 {
+    color: #136935;
+    margin-top: -3%;
+    text-align: center;
+    font-weight: 400;
+}
+
+.subtitulo-user p {
+    margin: 0;
+    text-align: center;
+}
+
+.volta-login-user {
+    text-align: center;
+    margin-top: 8%;
+}
+
+.volta-login-user a {
+    text-decoration: none;
+    color: #136935;
+}
+
+.volta-login-user p {
+    color: black;
+    font-weight: 400;
+}
