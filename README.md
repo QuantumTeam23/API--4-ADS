@@ -86,6 +86,10 @@
 <img align="center" src="Imagens/apresentacao2Sprint.gif"/>
 <br>
 <br>
+<h3> Video Sprint Review 3:</h3>
+<img align="center" src="Imagens/apresentacao3Sprint.gif"/>
+<br>
+<br>
 
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
@@ -134,6 +138,9 @@
 <br>
 <h3>Burndown - 2ª Sprint </h3> <br>
 <img align="center" src="Imagens/burndown2.jpeg" height= "400" width= "700"/>
+<br>
+<h3>Burndown - 2ª Sprint </h3> <br>
+<img align="center" src="Imagens/burndown3.jpeg" height= "400" width= "700"/>
 <br>
 
 <h2>Equipe 👾</h2>
