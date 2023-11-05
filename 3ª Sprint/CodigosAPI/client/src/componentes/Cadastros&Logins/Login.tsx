@@ -54,7 +54,7 @@ function Login() {
                     confirmButtonColor: '#de940a'
                 })
                 setTimeout(() => {
-                    navigate('/painel-parceiro-historico-compra');
+                    navigate('/painel-parceiro-carteira-estabelecimento');
                 }, 1100);
                 localStorage.setItem('tipo', 'ComumParceiro')
                 localStorage.setItem('idParceiro', data.idParceiro)
@@ -68,7 +68,7 @@ function Login() {
                     confirmButtonColor: '#de940a'
                 })
                 setTimeout(() => {
-                    navigate('/painel-estabelecimento-historico-compras');
+                    navigate('/painel-estabelecimento-extrato');
                 }, 1100);
                 localStorage.setItem('tipo', 'ComumEstabelecimento')
                 localStorage.setItem('idEstabelecimento', data.idEstabelecimento)
