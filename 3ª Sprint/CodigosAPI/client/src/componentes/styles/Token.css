@@ -1,0 +1,100 @@
+* {
+    font-family: Montserrat, sans-serif, Arial;
+}
+
+.container-geral-token {
+    background-color: #ebebeb;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-janela-token {
+    width: 100vw;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-esquerda-token {
+    background: #136935;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-direita-token {
+    background: white;
+    flex: 1;
+    padding: 20px;
+}
+
+.logo-token img {
+    max-width: 100%;
+    height: auto;
+}
+
+.form-control-token {
+    background-color: rgb(221, 255, 218) !important;
+    width: 100%;
+}
+
+.botao-token {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.botao-token button {
+    background-color: #136935;
+    height: 50px;
+    width: 140px;
+    font-size: 22px;
+}
+
+.botao-reenviar-token {
+    display: flex;
+    justify-content: center;
+}
+
+.botao-reenviar-token button {
+    font-size: 15px;
+    color: #136935;
+}
+
+.titulo-token h1 {
+    color: #136935;
+    text-align: center;
+    font-size: 2.8em;
+    font-weight: 555;
+}
+
+.campo-token {
+    text-align: left;
+    margin-top: 15%;
+    width: 100%;
+    max-width: 50vw;
+}
+
+.form-control-token {
+    background-color: rgb(221, 255, 218) !important;
+    width: 100%;
+}
+
+.volta-login-token {
+    text-align: center;
+    margin-top: 1%;
+}
+
+.volta-login-token a {
+    text-decoration: none;
+    color: #136935;
+}
+
+.volta-login-token p {
+    color: black;
+    font-weight: 400;
+}

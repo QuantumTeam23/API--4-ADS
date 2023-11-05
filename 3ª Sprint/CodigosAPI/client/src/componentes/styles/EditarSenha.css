@@ -1,0 +1,104 @@
+* {
+    font-family: Montserrat, sans-serif, Arial;
+}
+
+.container-geral-editarsenha {
+    background-color: #ebebeb;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-janela-editarsenha {
+    width: 100vw;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-esquerda-editarsenha {
+    background: #136935;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-direita-editarsenha {
+    background: white;
+    flex: 1;
+    padding: 20px;
+}
+
+.logo-editarsenha img {
+    max-width: 100%;
+    height: auto;
+}
+
+.botao-editarsenha {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.botao-editarsenha button {
+    background-color: #136935;
+    height: 50px;
+    width: 140px;
+    font-size: 22px;
+}
+
+.titulo-editarsenha {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.titulo-editarsenha h1 {
+    color: #136935;
+    font-size: 2.8em;
+    font-weight: 555;
+}
+
+.campo-editarsenha {
+    text-align: left;
+    margin-top: 8%;
+    width: 100%;
+    max-width: 600px;
+}
+
+.volta-login-editarsenha {
+    text-align: center;
+    margin-top: 3%;
+}
+
+.volta-login-editarsenha a {
+    text-decoration: none;
+    color: #136935;
+}
+
+.volta-login-editarsenha p {
+    color: black;
+    font-weight: 400;
+}
+
+.form-control-nova-senha {
+    background-color: rgb(221, 255, 218) !important;
+    height: 100%;
+}
+
+.campo-senha {
+    position: relative;
+    height: 41px;
+}
+
+.eyeIcon {
+    width: 20px;
+    height: 25px;
+    position: absolute;
+    right: 0.3vw;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}

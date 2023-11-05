@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'oswald-media';
+  src: url(../../Fontes/Oswald-Medium.ttf);
+}
+@font-face {
+  font-family: 'oswald-bold';
+  src: url(../../Fontes/Oswald-Bold.ttf);
+}
+@font-face {
+  font-family: 'montserrat-medium';
+  src: url(../../Fontes/Montserrat-Medium.ttf);
+}
+
+* {
+    font-family: 'montserrat-medium', sans-serif, Arial;
+  }
+  
+  .fontes-precos{
+    font-family: 'oswald-media','montserrat-medium';
+  }
+
+  .container-geral-comparador-de-preco {
+   
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+
+  .campos-textos{
+      background-color: rgb(221, 255, 218) !important;
+      width: 100%;
+      height: 60px;
+      justify-content: center;
+      display: flex;
+  }
+
+  .cor-cards{
+    background-color:lightgray ;
+  }
+
+  .botoes{
+    margin-bottom: 3%;
+  }
+
+  .linha {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin: right 0px;; 
+    margin-left: 0px; 
+}
+ 

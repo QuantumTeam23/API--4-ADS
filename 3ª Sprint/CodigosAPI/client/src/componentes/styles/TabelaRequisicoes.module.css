@@ -1,0 +1,47 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+thead th {
+    background: darkgreen;
+    border: 1px solid darkgreen;
+    color: white;
+    padding: 10px 5px; 
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+tbody tr:nth-child(odd) {
+    background: #f2f2f2;
+}
+
+tbody td {
+    border: 1px solid darkgreen;
+    padding: 2px 5px; 
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+tfoot td {
+    background: darkgreen;
+    border: 1px solid darkgreen;
+    color: white;
+    padding: 10px 5px; 
+    min-height: 2.2vh;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+@media screen and (max-height: 400px) {
+    tbody td {
+        padding: 5px 5px; 
+    }
+    table {
+        margin-bottom: 10px; 
+    }
+}

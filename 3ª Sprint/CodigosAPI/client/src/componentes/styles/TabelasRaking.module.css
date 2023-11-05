@@ -1,0 +1,95 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead th {
+  background: darkgreen;
+  border: 1px solid darkgreen;
+  color: white;
+  padding: 1vh 1vw;
+}
+
+tbody tr:nth-child(odd) {
+  background: #f2f2f2;
+}
+
+tbody td {
+  border: 1px solid darkgreen;
+  padding: 1vh 0.5vw;
+}
+
+tfoot td {
+  background: darkgreen;
+  border: 1px solid darkgreen;
+  color: white;
+  padding: 1vh 0.5vw;
+  min-height: 2.2vh;
+}
+
+th:nth-child(1), td:nth-child(1) {
+  width: 1.5%;
+  padding-left: 2%;
+}
+
+th:nth-child(2), td:nth-child(2) {
+  width: 4%;
+}
+
+th:nth-child(3), td:nth-child(3) {
+  width: 4%;
+}
+
+th:nth-child(4), td:nth-child(4) {
+  width: 5%;
+}
+
+th:nth-child(5), td:nth-child(5) {
+  width: 5%;
+}
+
+@media only screen and (max-width: 600px) {
+  th:nth-child(1), td:nth-child(1) {
+    width: 1.3%;
+    padding-left: 2%;
+  }
+
+  th:nth-child(2), td:nth-child(2) {
+    width: 7.2%;
+  }
+  
+  th:nth-child(3), td:nth-child(3) {
+    width: 6%;
+  }
+  
+  th:nth-child(4), td:nth-child(4) {
+    width: 5%;
+  }
+
+}
+
+.enabledButton {
+  color: rgb(58, 58, 58); 
+  background-color: darkgreen;
+  font-weight: bold; 
+}
+
+#activeTab {
+  background-color: green;
+} 
+/* Estilos para botões dentro de .tabsContainer */
+.tabsContainer button {
+  background-color: rgb(221, 255, 218);
+  padding: 8px;
+  margin-right: 10px;
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 10px;
+  border: solid 0.1px;
+  border-radius: 10px;
+}
+
+.tabsContainer button:hover, .active, .focus {
+  background-color: rgb(123, 212, 123);
+  margin-right: 10px;
+}

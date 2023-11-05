@@ -1,0 +1,111 @@
+* {
+    font-family: Montserrat, sans-serif, Arial;
+}
+
+.container-geral-cadastro-estabelecimento{
+    background-color: #ebebeb;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-janela-cadastro-estabelecimento{
+    width: 90%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-esquerda-cadastro-estabelecimento{
+    background: #136935;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-direita-cadastro-estabelecimento{
+    background: white;
+    flex: 1;
+    padding: 20px;
+}
+
+.logo-cadastro-estabelecimento img {
+    max-width: 100%;
+    height: auto;
+}
+
+.form-control-cadastro-estabelecimento{
+    background-color: rgb(221, 255, 218) !important;
+    width: 100%;
+}
+
+.botao-cadastro-estabelecimento{
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+}
+
+.botao-cadastro-estabelecimento button {
+    background-color: #136935;
+    height: 50px;
+    width: 140px;
+    font-size: 22px;
+    margin-right: 2%;
+}
+
+.titulo-cadastro-estabelecimento h1{
+    color: #136935;
+    text-align: center;
+    font-size: 2.8em;
+    font-weight: 555;
+}
+
+.registro-cadastro-estabelecimento{
+    text-align: center;
+    margin-top: 1%;
+}
+
+.registro-cadastro-estabelecimento a{
+    text-decoration: none;
+    color: #136935;
+}
+
+.registro-cadastro-estabelecimento p{
+    color: black;
+    font-weight: 400;
+}
+
+.form-group-transition {
+  opacity: 1;
+  max-height: 2000px;
+  transition: opacity 0.3s ease-in, max-height 0.3s ease-in;
+}
+
+.form-group-transition.hidden {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+}
+
+.form-control-login-senha {
+    height: 100%;
+    background-color: rgb(221, 255, 218) !important;
+  }
+  
+  .campo-senha {
+    height: 38px;
+    margin-bottom: 34px;
+  }
+  
+  .eyeIconParceiro {
+    width: 20px;
+    height: 25px;
+    position: absolute;
+    right: 0.3vw;
+    top: 95%;
+    cursor: pointer;
+  }
+  
