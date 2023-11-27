@@ -1,0 +1,51 @@
+
+.enabledButton {
+  color: lightblue; 
+  font-weight: bold; 
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+input {
+  flex: 1;
+  border: none;
+  outline: none;
+}
+
+.search-icon-container {
+  display: flex;
+  align-items: center;
+  padding: 0 8px;
+  background-color: #f0f0f0;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.search-icon {
+  color: #555;
+  font-size: 20px;
+}
+
+
+/* TabelaColetas.module.css */
+
+.searchContainer {
+  display: flex;
+  justify-content: flex-end; /* Alinha os elementos à direita */
+  align-items: center;
+}
+
+.dateFilters {
+  display: flex;
+  align-items: center;
+  margin-left: 10px; /* Ou qualquer outra margem desejada entre os elementos */
+}
+
+/* Estilize os elementos de input, p, etc. conforme necessário */
+

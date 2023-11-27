@@ -1,0 +1,35 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead tr th {
+  background: darkgreen;
+  border: 1px solid darkgreen;
+  color: white;
+  padding: 8px 1vw;
+  width: 30%;
+  text-align: center;
+}
+
+tbody tr:nth-child(odd) {
+  background: #f2f2f2;
+}
+
+tbody tr td {
+  border: 1px solid darkgreen;
+  padding: 8px 0.5vw;
+}
+
+tfoot tr td {
+  background: darkgreen;
+  border: 1px solid darkgreen;
+  color: white;
+  padding: 1px 0.5vw;
+  min-height: 2.2vh; 
+}
+
+.MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthMd MuiDialog-paperFullWidth css-rnmm7m-MuiPaper-root-MuiDialog-paper {
+  margin: none !important;
+  width: none !important;
+}

@@ -1,0 +1,25 @@
+.enabledButton {
+  color: rgb(58, 58, 58); 
+  background-color: darkgreen;
+  font-weight: bold; 
+}
+
+#activeTab {
+  background-color: green;
+} 
+/* Estilos para botões dentro de .tabsContainer */
+.tabsContainer button {
+  background-color: rgb(221, 255, 218);
+  padding: 8px;
+  margin-right: 10px;
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 10px;
+  border: solid 0.1px;
+  border-radius: 10px;
+}
+
+.tabsContainer button:hover, .active, .focus {
+  background-color: rgb(123, 212, 123);
+  margin-right: 10px;
+}

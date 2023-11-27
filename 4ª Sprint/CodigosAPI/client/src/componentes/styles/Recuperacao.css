@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat, sans-serif, Arial;
+}
+
+h3 {
+    font-size: 0.9em;
+    text-align: justify;
+    margin-top: 4%;
+}
+
+.container-geral-recuperacao {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-janela-recuperacao {
+    width: 98%;
+    max-width: 1200px;
+    display: flex;
+    border-radius: 80px 0 80px 0;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.138);
+    overflow: hidden;
+}
+
+.container-esquerda-recuperacao {
+    background: #136935;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-direita-recuperacao {
+    background: white;
+    flex: 1;
+    padding: 1.4vw;
+}
+
+.logo-recuperacao {
+    max-width: 80%;
+}
+
+.form-control-recuperacao {
+    background-color: rgb(221, 255, 218) !important;
+    width: 100%;
+}
+
+.botao-recuperacao {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.botao-recuperacao button {
+    background-color: #136935;
+    height: 50px;
+    width: 140px;
+    font-size: 22px;
+    margin-top: 10%;
+}
+
+.titulo-recuperacao h1 {
+    color: #136935;
+    text-align: center;
+    font-size: 2.8em;
+    font-weight: 555;
+    margin: 8% 0 8% 0;
+}
+
+.campo-recuperacao {
+    text-align: left;
+    margin-top: 15%;
+    width: 100%;
+}
+
+.form-control-recuperacao {
+    background-color: rgb(221, 255, 218) !important;
+    width: 100%;
+}
+
+.volta-login-recuperacao {
+    text-align: center;
+    margin-top: 1%;
+}
+
+.volta-login-recuperacao a {
+    text-decoration: none;
+    color: #136935;
+}
+
+.volta-login-recuperacao p {
+    color: black;
+    font-weight: 400;
+}
+
+@media (max-width: 700px) {
+    .container-esquerda-recuperacao {
+        display: none;
+    }
+}
